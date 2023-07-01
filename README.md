@@ -18,3 +18,5 @@ APP demo Link: https://drive.google.com/file/d/1GRTasHvh3AzYR-CPiBJxXFdZ7LVrw6AQ
 App demo Link2: https://drive.google.com/file/d/1Io_kuqsjyQH9im-amxfo6PmxRW6mX-TS/view?usp=drive_link
 
 Weekly task assignment git links: https://github.com/GowthamBade/Assignments.git
+
+smartinternz given git colab link: https://github.com/smartinternz02/SPSGP-525433-An-Android-Application-for-Keeping-Up-with-the-Latest-Headlines.git
